@@ -1,0 +1,17 @@
+C:\Users\Patrick\source\repos\CS311_Project3_PV\bin\Debug\net6.0-windows\CS311_Project3_PV.exe
+C:\Users\Patrick\source\repos\CS311_Project3_PV\bin\Debug\net6.0-windows\CS311_Project3_PV.deps.json
+C:\Users\Patrick\source\repos\CS311_Project3_PV\bin\Debug\net6.0-windows\CS311_Project3_PV.runtimeconfig.json
+C:\Users\Patrick\source\repos\CS311_Project3_PV\bin\Debug\net6.0-windows\CS311_Project3_PV.dll
+C:\Users\Patrick\source\repos\CS311_Project3_PV\bin\Debug\net6.0-windows\CS311_Project3_PV.pdb
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\CS311_Project3_PV.PizzaApp.resources
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\CS311_Project3_PV.Properties.Resources.resources
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\CS311_Project3_PV.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\CS311_Project3_PV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\CS311_Project3_PV.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\CS311_Project3_PV.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\CS311_Project3_PV.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\CS311_Project3_PV.dll
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\refint\CS311_Project3_PV.dll
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\CS311_Project3_PV.pdb
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\CS311_Project3_PV.genruntimeconfig.cache
+C:\Users\Patrick\source\repos\CS311_Project3_PV\obj\Debug\net6.0-windows\ref\CS311_Project3_PV.dll
